@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: randomduck-astro-static-site-a12
+package: randomduck/astro-static-site-a12
